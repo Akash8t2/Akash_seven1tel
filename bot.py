@@ -84,7 +84,7 @@ def format_message(sms):
 <pre>{msg}</pre>
 
 👨‍💻 <b>:POWERED BY</b>
-<a href="https://t.me/Fahim_Fsm"> Rohan Fahim 🌼🍀</a>
+<a href="https://t.me/SEVEN1TEL_MAN"> Seven1Tel MAN</a>
 """
 
 # ✅ Send to Telegram (multiple chat ids)
@@ -102,7 +102,7 @@ def send_telegram(text):
             "reply_markup": {
                 "inline_keyboard": [
                     [
-                        {"text": "📞 ALL NUMBER 📞", "url": "https://t.me/+hJ8Ms2Dr3Zw4MTQ1"},
+                        {"text": "📞 ALL NUMBER 📞", "url": "https://t.me/+M8rqFhBpfhRmYWU9"},
                     ]
                 ]
             }
